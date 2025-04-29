@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Chamidu788/Chamidu788/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/Chamidu788/Chamidu788/blob/output/github-contribution-grid-snake-dark.svg](https://github.com/Chamidu788/Chamidu788/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 </div>
 
 <p align="center">
