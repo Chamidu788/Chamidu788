@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Chamidu788/Chamidu788/blob/output/github-contribution-grid-snake-dark.svg](https://github.com/Chamidu788/Chamidu788/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
 
 <p align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Chamidu788/Chamidu788/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="800">
 </div>
 
 ## 🏆 Projects
@@ -98,6 +98,10 @@ HTML/CSS     20 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://github-contribution-stats.vercel.app/api/?username=Chamidu788&theme=dark" alt="Contribution Stats" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="350">
+</div>
+
 ---
 
 <div align="center">
@@ -111,5 +115,5 @@ HTML/CSS     20 mins         ▒░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <img src="https://github.com/Chamidu788/Chamidu788/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8aafe-a59f-471b-82a9-1e0d80a03a1f.gif" width="700">
 </div>
